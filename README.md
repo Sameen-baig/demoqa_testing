@@ -12,7 +12,7 @@ It is designed to demonstrate end-to-end browser automation for UI testing purpo
 - **Modal Dialogs** – Small and large modal popup handling
 - **Accordian** – Collapsible content sections
 
-### ✅ Widgets
+### Widgets
 - **Auto Complete**
 - **Date Picker**
 - **Slider**
@@ -22,7 +22,7 @@ It is designed to demonstrate end-to-end browser automation for UI testing purpo
 - **Menu**
 - **Select Menu**
 
-### ✅ Interactions
+### Interactions
 - **Sortable**
 - **Selectable**
 - **Resizable**
@@ -35,12 +35,12 @@ It is designed to demonstrate end-to-end browser automation for UI testing purpo
 - **Book Detail View**
 - **Profile Section**
 
-## 🧰 Tech Stack
+## Tech Stack
 - **Python**
 - **Selenium**
 - **ChromeDriver**
 
-## ⚙️ Prerequisites
+## Prerequisites
 - Python installed
 - Chrome browser installed
 - ChromeDriver installed and in system PATH or managed via WebDriverManager
